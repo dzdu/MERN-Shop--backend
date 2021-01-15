@@ -39,6 +39,8 @@ app.get('/api', (req, res) => {
       <hr/>
       <a href="http://localhost:8000/api/user">User api</a>
       <hr/>
+      <a href="http://localhost:8000/api/current-user">Current user api</a>
+      <hr/>
     `);
 });
 
